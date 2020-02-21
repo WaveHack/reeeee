@@ -1,0 +1,12 @@
+{
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "phpunit/phpunit": "^9.0"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}
