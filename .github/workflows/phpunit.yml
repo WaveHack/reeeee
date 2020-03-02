@@ -1,0 +1,18 @@
+name: PHPUnit
+
+on: [push, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-16.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set PHP version to PHP 7.4
+        run: sudo update-alternatives --set php /usr/bin/php7.4 > /dev/null
+
+      - name: Install PHP dependencies
+        run: composer install --no-interaction --prefer-dist
+
+      - name: Run tests
+        run: vendor/bin/phpunit
