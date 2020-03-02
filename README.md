@@ -1,8 +1,8 @@
 ![Reeeee](.github/reeeee.jpg)
 
 <p align="center">
-![PHPUnit](https://github.com/WaveHack/reeeee/workflows/PHPUnit/badge.svg)
-![Reeeee](https://img.shields.io/badge/reeeee-reeeee!!!!!!!-red)
+  <img src="https://github.com/WaveHack/reeeee/workflows/PHPUnit/badge.svg" alt="phpunit reeeee">
+  <img src="https://img.shields.io/badge/reeeee-reeeee!!!!!!!-red" alt="reeeee!!!">
 </p>
 
 # Reeeee
