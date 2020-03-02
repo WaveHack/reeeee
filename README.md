@@ -1,9 +1,9 @@
 ![Reeeee](.github/reeeee.jpg)
 
-<div style="text-align: center;">
-    ![PHPUnit](https://github.com/WaveHack/reeeee/workflows/PHPUnit/badge.svg)
-    ![Reeeee](https://img.shields.io/badge/reeeee-reeeee!!!!!!!-red)
-</div>
+<p align="center">
+![PHPUnit](https://github.com/WaveHack/reeeee/workflows/PHPUnit/badge.svg)
+![Reeeee](https://img.shields.io/badge/reeeee-reeeee!!!!!!!-red)
+</p>
 
 # Reeeee
 
