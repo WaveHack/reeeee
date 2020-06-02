@@ -1,10 +1,13 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Tests;
 
 use PHPUnit\Framework\TestResult;
 use PHPUnit\TextUI\DefaultResultPrinter;
 
+/** @noinspection PhpUnused */
 class ReeeeePrinter extends DefaultResultPrinter
 {
     protected function printRisky(TestResult $result): void
