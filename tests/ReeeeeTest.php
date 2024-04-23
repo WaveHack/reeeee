@@ -9,7 +9,7 @@ use RuntimeException;
 
 class ReeeeeTest extends TestCase
 {
-    protected int $amountOfEes = 25;
+    protected int $amountOfEes = 15;
 
     public function testR(): void
     {
